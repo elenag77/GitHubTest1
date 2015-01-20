@@ -50,7 +50,7 @@
 	
 	display_workers ();
 	
-	echo $undefined_variable;
+	//echo $undefined_variable;
 	
 	?>
 
